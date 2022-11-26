@@ -1,4 +1,4 @@
-# Desafio-de-Projeto < h3 >
+# Desafio-de-Projeto 
 
 # Explorando Padrões de Projetos na Prática com Java
 
